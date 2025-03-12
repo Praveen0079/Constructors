@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CourseManagement {
     // Class to manage courses
-    class Course {
+    static class Course {
         private String courseName;
         private int duration;
         private double fee;
